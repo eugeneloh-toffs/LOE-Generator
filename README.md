@@ -1,5 +1,7 @@
 # Letter of Employment — Mass Generator
 
+https://loe-generator-cjzsuua9glifuch79tb7be.streamlit.app
+
 A laptop-hosted demo app: upload a Word template + an Excel of candidates, get one
 Letter of Employment (`.docx`) per candidate, downloadable as a zip.
 
